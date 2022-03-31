@@ -1,0 +1,69 @@
+{
+	
+	"questions": [
+		{
+			"question": "What particle is used to ask a question in Japanese?",
+			"correctAnswer": "か(ka)",
+			"wrongAnswer1": "も(mo)",
+			"wrongAnswer2": "が (ga)",
+			"wrongAnswer3": "は(wa)",
+			"correctAnswerDescription": "か should always be used at the end of a sentence."
+		},
+		
+		{
+			"question": "Which of these objects may be found in a としょかん?",
+			"correctAnswer": "ほん(ho-n)",
+			"wrongAnswer1": "テレビ (te-re-bi)",
+			"wrongAnswer2": "しょくぶつ (sho-ku-bu-tsu)",
+			"wrongAnswer3": "はがき (ha-ga-ki)",
+			"correctAnswerDescription": "There are a total of 3,106 libraries across Japan, and 758 university libraries with about 2.8 million students studying at these institutions as of 2007."
+		},
+		
+		{
+			"question": "Which of these objects may be found in a classroom?",
+			"correctAnswer": "つくえ (tsu-ku-e)", 
+			"wrongAnswer1": "せんめんだい (se-n-me-n da-i)",
+			"wrongAnswer2": "かがみ (ka-ga-mi)",
+			"wrongAnswer3": "ベッド (bed-do)",
+			"correctAnswerDescription": "Desks face the front of the room in a Japanese classroom, emphasising the relationship between teacher and student. In western classrooms, this may not always be the case, where group discussions are more encouraged."
+		},
+		
+		{
+			"question": "You want to order two cups of coffee from a cafe. What do you say?",
+			"correctAnswer": "コーヒー2つください。(kōhī futatsu ō-ku-da-sa-i)",
+			"wrongAnswer1": "サラダください。(sa-ra-da ō-ku-da-sa-i)",
+			"wrongAnswer2": "コーヒーください。(kōhī ō-ku-da-sa-i)",
+			"wrongAnswer3": "たまご2つください。(ta-ma-go futatsu ō-ku-da-sa-i)",
+			"correctAnswerDescription": "While most western foods have a katakana that is similar to its english equivalent, there are some such as eggs たまご that have their own unique word."
+		},
+		
+		{
+			"question": "Listen to this piece of audio. Where does Mr. Takahasi work?",
+			"correctAnswer": "Nozomi Department Store",
+			"wrongAnswer1": "Nozomi Motors",
+			"wrongAnswer2": "ABC Foods",
+			"wrongAnswer3": "ABC Department Store",
+			"correctAnswerDescription": "You're a good listener. Well done!"
+		},
+		
+		{
+			"question": "What time is ban-gohan available?",
+			"correctAnswer": "from 6 p.m..",
+			"wrongAnswer1": "from 12 p.m.",
+			"wrongAnswer2": "from 6 a.m.",
+			"wrongAnswer3": "from 10 p.m.",
+			"correctAnswerDescription": "Asa-gohan is breakfast, hiru-gohan is lunch, and ban-gohan is obviously dinner."
+		},
+		
+		{
+			"question": "What of these adjectives would you NOT use to describe this image?",
+			"correctAnswer": "むずかしい (mu-za-ka-shi-i)",
+			"wrongAnswer1": "おいしい (o-i-shi-i)",
+			"wrongAnswer2": "あまい (a-ma-i)",
+			"wrongAnswer3": "さむい (sa-mu-i)",
+			"correctAnswerDescription": "むずかしい means difficult."
+		}
+		
+	]
+}
+		
